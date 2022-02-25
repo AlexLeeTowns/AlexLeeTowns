@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hello there👋
 
+I'm Alex! I'm a test automation nerd, quality evangelist, and jack of most trades.
+Orignally from California, I've lived in Denmark for most of my life; but now I live in Venezuela with my wife and son.
+I learned to code so I could automate the boring parts of manual testing, and just kept going.
 <!--
 **AlexLeeTowns/AlexLeeTowns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
